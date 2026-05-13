@@ -619,7 +619,7 @@ footer {
   .hero-buttons { gap: 16px; }
   .hero-badges { padding: 8px 20px; }
 
-  .trusted { padding: 60px 32px; }
+  .trusted { padding: 100px 32px 60px; }
   .trusted-logos { grid-template-columns: repeat(3, 1fr); }
   .logo-card { height: 90px; }
 
